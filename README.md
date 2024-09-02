@@ -11,8 +11,10 @@
 
 ![python](https://img.shields.io/badge/-Python-212529?logo=python&logoColor=336d9d&style=for-the-badge)
 ![react](https://img.shields.io/badge/-React-212529?logo=react&logoColor=61dafb&style=for-the-badge)
+![javascript](https://img.shields.io/badge/-JavaScript-212529?logo=javascript&logoColor=f7df1e&style=for-the-badge)
 ![javascript](https://img.shields.io/badge/-TypeScript-212529?logo=typescript&logoColor=05032&style=for-the-badge)
 </br>
+![c](https://img.shields.io/badge/-C-212529?logo=c&logoColor=fff&style=for-the-badge)
 ![git](https://img.shields.io/badge/-Git-212529?logo=git&logoColor=f05032&style=for-the-badge)
 
 ### Contacts:
