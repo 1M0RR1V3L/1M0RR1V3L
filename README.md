@@ -1,6 +1,7 @@
 # 1m0rr1v3l/Lucas Sousa - Student
 
 > Graduated in Systems Analysis and Development at the Federal University of Ceará (UFC).
+> 
 > Master's student in Computer Science at the Federal University of Ceará (UFC).
 ### Technologies:
 
